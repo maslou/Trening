@@ -1,0 +1,6 @@
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\bin\Debug\DefineClasses.exe.config
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\bin\Debug\DefineClasses.exe
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\bin\Debug\DefineClasses.pdb
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\obj\Debug\DefineClasses.csprojResolveAssemblyReference.cache
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\obj\Debug\DefineClasses.exe
+D:\Soft Uni\HomeWorks\trunk\SoftUni HomeWorks\Level2\OOP\DefineClasses\obj\Debug\DefineClasses.pdb
