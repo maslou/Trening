@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Battery.cs" />
+    <Compile Include="Component.cs" />
+    <Compile Include="Computer.cs" />
     <Compile Include="Laptop.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
